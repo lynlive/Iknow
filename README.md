@@ -5,3 +5,4 @@
   <span style="color:blue;">
    splice(m,n,newvalue)从数组的第m项起删除n项，添加新的newvalue
  </span>
+##微信小程序
